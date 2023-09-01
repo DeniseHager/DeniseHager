@@ -3,3 +3,6 @@
  <source media="(prefers-color-scheme: light)" srcset="/R.png">
  <img alt="Dogs make me smile" src="/R.png">
 </picture>
+## About me
+
+Hi, I'm Denise. Dogs make me smile.

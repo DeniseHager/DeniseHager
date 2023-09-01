@@ -6,3 +6,9 @@
 ## About me
 
 Hi, I'm Denise. Dogs make me smile.
+
+| Rank | Things that make me smile |
+|-----:|---------------------------|
+|     1|    Dogs                   |
+|     2|    Autumn colours         |
+|     3|    Mastering a new tool   |

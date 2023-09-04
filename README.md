@@ -5,7 +5,7 @@
 </picture>
 ## About me
 
-Hi, I'm Denise. Dogs make me smile.
+Hi, I'm Denise. Dogs make me smile. 😄
 
 | Rank | Things that make me smile |
 |-----:|---------------------------|

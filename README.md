@@ -16,4 +16,4 @@ Hi, I'm Denise. Dogs make me smile. 😄
 
 ---
 > You know today would be a very good day just to have a good day
-> -Michael Franti
+-Michael Franti

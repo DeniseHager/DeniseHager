@@ -12,3 +12,8 @@ Hi, I'm Denise. Dogs make me smile. 😄
 |     1|    Dogs                   |
 |     2|    Chocolate              |
 |     3|    Mastering a new tool   |
+
+
+---
+> You know today would be a very good day just to have a good day
+> -Michael Franti
